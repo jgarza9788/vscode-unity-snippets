@@ -871,5 +871,14 @@
 			"    $1",
 			"}"
 		]
+	},
+	"Comment Summary": {
+	"prefix": "Summary",
+	"description": "Adds Summary comment",
+	"body": [
+			"/// <summary>",
+			"/// $1",
+			"/// </summary>"
+			]
 	}
 }
